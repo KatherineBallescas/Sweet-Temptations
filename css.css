@@ -1,0 +1,174 @@
+.frame {
+  background-color: #fcfcf6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width:100%;
+}
+
+.frame .div {
+  background-color: #fcfcf6;
+  overflow: hidden;
+  width: 7402px;
+  height: 7794px;
+  position: relative;
+}
+
+.frame .overlap-group {
+  height: 1256px;
+  top: 0;
+  background-image: url(./img/image-41.png);
+  position: absolute;
+  width: 7402px;
+  left: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .SWEET-TEMPTATIONS {
+  position: absolute;
+  width: 4239px;
+  top: 416px;
+  left: 1911px;
+  font-family: "Abril Fatface-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 350px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  width: 960px;
+  height: 827px;
+  top: 214px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .overlap {
+  height: 4932px;
+  top: 1363px;
+  background-image: url(./img/image-27.png);
+  position: absolute;
+  width: 7402px;
+  left: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .this-website {
+  position: absolute;
+  width: 5907px;
+  top: 384px;
+  left: 748px;
+  font-family: "Abril Fatface-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 250px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .img {
+  width: 323px;
+  height: 377px;
+  top: 125px;
+  left: 285px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle {
+  width: 7373px;
+  height: 12px;
+  top: 1259px;
+  left: -28px;
+  position: absolute;
+  background-color: #000000;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 2099px;
+  height: 218px;
+  top: 6630px;
+  left: 5256px;
+  font-family: "Croissant One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 1943px;
+  height: 268px;
+  top: 6950px;
+  left: 2658px;
+  font-family: "Croissant One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .facebook-removebg {
+  position: absolute;
+  width: 482px;
+  height: 342px;
+  top: 7290px;
+  left: 2716px;
+  object-fit: cover;
+}
+
+.frame .twitter-removebg {
+  position: absolute;
+  width: 514px;
+  height: 365px;
+  top: 7278px;
+  left: 4061px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 1409px;
+  height: 193px;
+  top: 6616px;
+  left: 612px;
+  font-family: "Croissant One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .ig-removebg-preview {
+  position: absolute;
+  width: 631px;
+  height: 365px;
+  top: 7278px;
+  left: 3314px;
+  object-fit: cover;
+}
+
+.frame .rectangle-2 {
+  width: 7402px;
+  height: 1px;
+  top: 6402px;
+  left: 0;
+  position: absolute;
+  background-color: #000000;
+}
